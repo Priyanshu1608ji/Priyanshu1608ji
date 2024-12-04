@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Bca
 - 💞️ I’m looking to collaborate on Excel,cloud security.
 - 📫 How to reach me on linkedln
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am just a beginner and don't know much 
 
 <!---
