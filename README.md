@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing online works connected  to the internet and computer
 - 🌱 I’m currently learning Bca
 - 💞️ I’m looking to collaborate on Excel,cloud security.
-- 📫 How to reach me on linkedln
+- 📫  Reach me on linkedln
 - ⚡ Fun fact: ... I am just a beginner and don't know much 
 
 <!---
